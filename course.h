@@ -1,5 +1,9 @@
 #include "student.h"
 #include <stdbool.h>
+/**
+ * Course type stores the course with the name code, students, and total students.
+ * 
+ */
  
 typedef struct _course 
 {

@@ -1,4 +1,7 @@
- 
+/**
+ * The student stores the student with his/her first and last name, grades, and id.
+ * 
+ */
 typedef struct _student 
 { 
   char first_name[50];
